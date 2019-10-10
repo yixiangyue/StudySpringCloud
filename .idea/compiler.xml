@@ -6,13 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="client_11021" />
         <module name="common_utils" />
         <module name="eureka_11001" />
+        <module name="eureka_11002" />
+        <module name="eureka_11003" />
+        <module name="eureka_11004" />
+        <module name="service_11011" />
+        <module name="service_remote_11001" />
+        <module name="service_remote_11011" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="client_11021" target="1.7" />
       <module name="common_utils" target="1.7" />
+      <module name="eureka_1004" target="1.7" />
       <module name="eureka_11001" target="1.7" />
+      <module name="eureka_11002" target="1.7" />
+      <module name="eureka_11003" target="1.7" />
+      <module name="eureka_11004" target="1.7" />
+      <module name="service_11010" target="1.7" />
+      <module name="service_11011" target="1.7" />
+      <module name="service_remote_11001" target="1.7" />
+      <module name="service_remote_11011" target="1.7" />
       <module name="StudySpringCloud" target="1.7" />
     </bytecodeTargetLevel>
   </component>

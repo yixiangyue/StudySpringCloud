@@ -1,16 +1,16 @@
 #设置服务器端口
 server:
-  port: 11001
+  port: 11004
 
 #遇到过的问题
 #1 : eureka.instance.hostname   这里配置的可以是任意名称  但是如果用变量引用到注册中心地址  切记要能映射到域名
 
 eureka:
   instance:
-    hostname: eureka11001.com
+    hostname: eureka11004.com
   client:
     registerWithEureka: false
     fetchRegistry: false
     serviceUrl:
-      defaultZone: http://eureka11001.com:11001/eureka
+      defaultZone: http://eureka11001.com:11001/eureka/,http://eureka11002.com:11002/eureka,http://eureka11003.com:11003/eureka
 

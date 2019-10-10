@@ -39,6 +39,13 @@
     <modules>
         <module>common_utils</module>
         <module>eureka_11001</module>
+        <module>eureka_11002</module>
+        <module>eureka_11003</module>
+        <module>eureka_11004</module>
+        <module>service_11011</module>
+        <module>service_remote_11011</module>
+        <module>client_11021</module>
+
     </modules>
 
     <build>

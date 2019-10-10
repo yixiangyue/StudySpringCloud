@@ -2,7 +2,13 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client_11021" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common_utils" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka_11001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_11002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_11003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka_11004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_11011" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_remote_11011" charset="UTF-8" />
   </component>
 </project>

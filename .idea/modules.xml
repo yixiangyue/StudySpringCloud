@@ -3,8 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StudySpringCloud.iml" filepath="$PROJECT_DIR$/StudySpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client_11021/client_11021.iml" filepath="$PROJECT_DIR$/client_11021/client_11021.iml" />
       <module fileurl="file://$PROJECT_DIR$/common_utils/common_utils.iml" filepath="$PROJECT_DIR$/common_utils/common_utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_11001/eureka_11001.iml" filepath="$PROJECT_DIR$/eureka_11001/eureka_11001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_11002/eureka_11002.iml" filepath="$PROJECT_DIR$/eureka_11002/eureka_11002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_11003/eureka_11003.iml" filepath="$PROJECT_DIR$/eureka_11003/eureka_11003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_11004/eureka_11004.iml" filepath="$PROJECT_DIR$/eureka_11004/eureka_11004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_11011/service_11011.iml" filepath="$PROJECT_DIR$/service_11011/service_11011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_remote_11011/service_remote_11011.iml" filepath="$PROJECT_DIR$/service_remote_11011/service_remote_11011.iml" />
     </modules>
   </component>
 </project>
