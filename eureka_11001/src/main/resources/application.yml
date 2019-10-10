@@ -1,0 +1,13 @@
+#设置服务器端口
+server:
+  port: 11001
+
+eureka:
+  instance:
+    hostname: eureka_11001
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+

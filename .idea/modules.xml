@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudySpringCloud.iml" filepath="$PROJECT_DIR$/StudySpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_utils/common_utils.iml" filepath="$PROJECT_DIR$/common_utils/common_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_11001/eureka_11001.iml" filepath="$PROJECT_DIR$/eureka_11001/eureka_11001.iml" />
+    </modules>
+  </component>
+</project>
